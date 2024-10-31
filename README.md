@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Eben
+I'm Eben,
 A self-taught Passionate Developer 💻
 - 🌱 I'm specialized in building front-end web applications using React
 - ✨ I'm currently learning full-stack and Machine Learning
