@@ -6,7 +6,7 @@ A self-taught Passionate Developer 💻
 - ✨ I'm currently learning full-stack and Machine Learning
 
 
-Instagram[https://www.instagram.com/eb_e__n/] 
+
 
 <!--
 **eb-en/eb-en** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
