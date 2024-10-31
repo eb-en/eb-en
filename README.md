@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 I'm Eben
+Passionate Developer 💻
 
 <!--
 **eb-en/eb-en** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
