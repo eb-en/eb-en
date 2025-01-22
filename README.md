@@ -2,7 +2,7 @@
 
 I'm **Eben**.
 A self-taught Passionate Developer 💻
-- 🌱 I'm specialized in building front-end web applications using React
+- 🌱 I'm specialized in building front-end web applications using React, Threejs
 - ✨ I'm currently expoloring full-stack and Machine Learning
 - ⌨️ I'm always learning  
 
