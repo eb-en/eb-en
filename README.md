@@ -1,4 +1,4 @@
-<!--
+
 ## Hi there 👋
 
 I'm **Eben**.
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 # 💫 About Me:
 ## Hi there 👋<br><br>I'm **Eben**.<br>A self-taught Passionate Developer 💻<br>- 🌱 I'm specialized in building front-end web applications using React, Threejs<br>- ✨ I'm currently expoloring full-stack and Machine Learning<br>- ⌨️ I'm always learning  
 
@@ -36,7 +36,6 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=eb-en&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=eb-en&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=eb-en&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
--->
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eb_e__n) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ebensenai2019@gmail.com) 
@@ -45,3 +44,4 @@ Here are some ideas to get you started:
 [![](https://visitcount.itsvg.in/api?id=eb-en&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+-->
