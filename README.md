@@ -22,7 +22,7 @@ I'm **Eben**.A self-taught Passionate Developer 💻
 </picture>
 
 ## Today's Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ## Connect with me
 [Email](mailto:ebensenai2019@gmail.com) - [LinkedIn](https://www.linkedin.com/in/eben-b-gilbert-546b65308/) - [Instagram](https://www.instagram.com/eb_e__n/) - [Twitter](https://x.com/EbenBGilbert)
