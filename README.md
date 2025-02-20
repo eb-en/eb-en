@@ -25,5 +25,5 @@ I'm **Eben**.A self-taught Passionate Developer 💻
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## Connect with me
-<br> [Email](mailto:ebensenai2019@gmail.com) - [LinkedIn](https://www.linkedin.com/in/eben-b-gilbert-546b65308/) - [Instagram](https://www.instagram.com/eb_e__n/) - [Twitter](https://x.com/EbenBGilbert)
+[Email](mailto:ebensenai2019@gmail.com) - [LinkedIn](https://www.linkedin.com/in/eben-b-gilbert-546b65308/) - [Instagram](https://www.instagram.com/eb_e__n/) - [Twitter](https://x.com/EbenBGilbert)
  
